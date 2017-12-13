@@ -1,0 +1,54 @@
+body {
+	position: relative;
+	background-color: #777;
+}
+.phone {
+	height: 500px;
+	width: 500px;
+	background-image: url(../img/1.png);
+}
+.phone-2 {
+	height: 500px;
+	width: 500px;
+	background-image: url(../img/2.png);
+}
+h1 {
+	font-family: "Exo2Bold";
+	padding-left: 400px;
+}
+.make-photo {
+	position: fixed;
+	display: block;
+	top: 447px;
+	left: 615px;
+	font-family: "Exo2Bold";
+}
+.animal-info {
+	position: fixed;
+	display: block;
+	top: 180px;
+	left: 567px;
+	font-family: "Exo2Bold";
+	color: #fff;
+}
+.back-button {
+	position: fixed;
+	display: block;
+	top: 170px;
+	left: 570px;
+	font-family: "Exo2Bold";
+}
+.save-button {
+	position: fixed;
+	display: block;
+	top: 447px;
+	left: 632px;
+	font-family: "Exo2Bold";
+}
+.camera-button {
+	position: fixed;
+	display: block;
+	top: 447px;
+	left: 625px;
+	font-family: "Exo2Bold";
+}
